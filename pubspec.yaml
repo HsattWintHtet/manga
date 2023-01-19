@@ -1,0 +1,58 @@
+name: zodiac
+description: A new Flutter project.
+
+
+publish_to: 'none'
+
+version: 1.1.1
+
+environment:
+  sdk: ">=2.7.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^0.1.3
+  google_fonts: ^1.1.0
+  flare_flutter: ^2.0.6
+  provider: ^4.3.2+2
+  shared_preferences: ^0.5.10
+  flutter_icons: ^1.1.0
+  carousel_pro: ^1.0.0
+  http: ^0.12.2
+  cached_network_image: ^2.3.2+1
+  flutter_spinkit: ^4.1.2+1
+  parse_server_sdk: ^1.0.27
+  bubble_tab_indicator: ^0.1.4
+  url_launcher: ^5.4.11
+  flutter_share: ^1.0.2+1
+  intl: ^0.16.1
+  firebase_admob: ^0.10.0+2
+  flutter_native_admob: ^2.1.0+3
+  firebase_core: ^0.5.0+1
+
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+
+  uses-material-design: true
+
+  assets:
+    - assets/flare/flow.flr
+    - assets/image/levi.png
+    - assets/image/logo.png
+    - assets/image/logo1.png
+
+
+
+  fonts:
+    - family: MyFlutterApp
+      fonts:
+        - asset: assets/fonts/MyFlutterApp.ttf
+    - family: Pyidaungsu
+      fonts:
+        - asset: assets/fonts/Pyidaungsu.ttf

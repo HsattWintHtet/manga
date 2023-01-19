@@ -1,0 +1,15 @@
+export '../bodyWidget/detail/control/detailControl.dart';
+export '../bodyWidget/favorite/control/favoriteControl.dart';
+export '../bodyWidget/genre/control/genreControl.dart';
+export '../bodyWidget/home/control/homeControl.dart';
+export 'package:zodiac/model/model.dart';
+export 'dart:convert';
+export 'package:flutter/cupertino.dart';
+export 'package:parse_server_sdk/parse_server_sdk.dart';
+export 'package:shared_preferences/shared_preferences.dart';
+export 'package:cached_network_image/cached_network_image.dart';
+export 'package:cached_network_image/cached_network_image.dart';
+export 'package:google_fonts/google_fonts.dart';
+export 'package:provider/provider.dart';
+export '../bodyWidget/detail/view/description.dart';
+export '../bodyWidget/detail/view/chapterView.dart';

@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "677119794175",
+    "firebase_url": "https://zodiacbook-415e8.firebaseio.com",
+    "project_id": "zodiacbook-415e8",
+    "storage_bucket": "zodiacbook-415e8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:677119794175:android:bdb48b8bbb1116b5a1a5ca",
+        "android_client_info": {
+          "package_name": "com.aries.zodiac"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "677119794175-uofdk20f6ru532sr20rmunc7r8ipk24f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.aries.zodiac",
+            "certificate_hash": "3dd160aac9adf858b186fd18cc4bb2309c99d848"
+          }
+        },
+        {
+          "client_id": "677119794175-a7638jcjg8ttipi7ct3sh051a4m58hc2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC935icQmyQ0Zj5MPFIPnVG6Wszxj-Su_s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "677119794175-a7638jcjg8ttipi7ct3sh051a4m58hc2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
